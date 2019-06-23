@@ -9,6 +9,14 @@
 }
 
 .item {
+	/*
 	flex-grow: 1;
 	flex-basis: 200px;
+	*/
+
+	flex: 1 200px;
+}
+
+.item-2 {
+	flex-grow :2;
 }
